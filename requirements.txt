@@ -1,6 +1,6 @@
-streamlit
-numpy
-scikit-image
-scikit-learn
-opencv-python
+streamlit==1.31.1
+opencv-python-headless==4.5.3.56
+scikit-image==0.18.3
+scikit-learn==0.24.2
+numpy==1.21.1
 
