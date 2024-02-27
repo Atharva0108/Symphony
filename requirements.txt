@@ -3,4 +3,4 @@ opencv-python-headless==4.5.3.56
 scikit-image==0.18.3
 scikit-learn==0.24.2
 numpy==1.21.1
-nstall libglib2.0-0
+libglib2.0-0
